@@ -1,1 +1,1 @@
-Data exploration
+Exploring data
