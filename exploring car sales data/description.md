@@ -1,2 +1,1 @@
-# Exploring car sales data
-Using pandas and numpy
+Exploring car sales data using pandas and numpy
